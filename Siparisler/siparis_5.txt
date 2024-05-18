@@ -1,0 +1,8 @@
+Yemek: Çorba - 8.0
+İçecek: Kola - 5.0
+Garson: Ayşe
+Müşteri: Mehmet
+Tarih: Sat May 18 19:03:05 TRT 2024
+Siparis Alindi.
+
+

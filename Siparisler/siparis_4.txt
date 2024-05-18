@@ -1,0 +1,8 @@
+Yemek: Pilav - 5.0
+İçecek: Limonata - 4.0
+Garson: Ali
+Müşteri: Fatma
+Tarih: Sat May 18 19:03:05 TRT 2024
+Siparis Alindi.
+
+

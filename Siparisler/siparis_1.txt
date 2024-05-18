@@ -1,0 +1,8 @@
+Yemek: Pilav - 5.0
+İçecek: Su - 1.0
+Garson: Fatma
+Müşteri: Mehmet
+Tarih: Sat May 18 19:03:05 TRT 2024
+Siparis Alindi.
+
+
