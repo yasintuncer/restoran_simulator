@@ -12,7 +12,9 @@ public class Garson extends Kisi {
     }
 
     void siparisAl(Siparis s, ArrayList<Siparis> siparisler) {
-        s.garsonAta(this);
+        //müşteri siparisVer methodunda sipariş objesinde garson null olarak atanmıştı.
+        //sipariş alındığında garson objesi güncellenir.
+        s.garson = this;
         siparisler.add(s);
         s.siparisBilgisi();
 

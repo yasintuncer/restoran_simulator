@@ -1,8 +1,8 @@
-Yemek: Çorba - 8.0
-İçecek: Kola - 5.0
-Garson: Ayşe
-Müşteri: Mehmet
-Tarih: Sat May 18 19:03:05 TRT 2024
+Yemek: Kuru Fasulye - 100.0
+İçecek: Kola - 30.0
+Garson: Fatma
+Müşteri: Fatma
+Tarih: Sat May 18 20:05:03 TRT 2024
 Siparis Alindi.
 
 

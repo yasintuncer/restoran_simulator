@@ -1,5 +1,5 @@
-Yemek: Bos - 0.0
-İçecek: Su - 10.0
+Yemek: Kuru Fasulye - 100.0
+İçecek: Kola - 30.0
 Garson: Veli
 Müşteri: Ahmet
 Tarih: Sat May 18 20:05:03 TRT 2024

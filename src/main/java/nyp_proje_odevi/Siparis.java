@@ -22,12 +22,6 @@ public class Siparis {
         this.siparisNo = Siparis.siparisNoCounter;
     }
 
-    // müşteri sınıfında yeralan siparisVer methodu garson bilgisini parametre olarak almamaktadır. Projenin istenen yapısına dokunmadan bu durumu çözmek için bu methodu ekledim.
-    // Bu nedenle müşteri sadece empty string olarak siparisi oluşturcak ardından garson siparisAl methodu ile kendini siparisin garsonu olarak atayacak şekilde bu eklemeyi yaptım.
-    void garsonAta(Garson garson)
-    {
-        this.garson = garson;
-    }
     void siparisBilgisi()
     {
         System.out.println("Yemek: " + yemek.getAd() +  " - " + yemek.getFiyat());

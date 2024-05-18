@@ -1,7 +1,7 @@
-Yemek: Pilav - 50.0
+Yemek: Köfte - 200.0
 İçecek: Limonata - 80.0
 Garson: Fatma
-Müşteri: Ayşe
+Müşteri: Fatma
 Tarih: Sat May 18 20:05:03 TRT 2024
 Siparis Alindi.
 

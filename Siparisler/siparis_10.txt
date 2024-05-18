@@ -1,7 +1,7 @@
 Yemek: Çorba - 80.0
-İçecek: Su - 10.0
-Garson: Ali
-Müşteri: Mehmet
+İçecek: Çay - 15.0
+Garson: Fatma
+Müşteri: Fatma
 Tarih: Sat May 18 20:05:03 TRT 2024
 Siparis Alindi.
 
